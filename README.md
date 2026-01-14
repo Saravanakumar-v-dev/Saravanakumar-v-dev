@@ -16,7 +16,7 @@
 const saravanakumar = {
     role: "Full Stack Developer",
     location: "India",
-    education: "B.Tech in Computer Science",
+    education: "B.Tech in Information Technology",
     
     skills: {
         frontend: ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3", "TailwindCSS"],
